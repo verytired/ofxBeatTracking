@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8A57B61-DC15-4D0D-891C-7737B52779FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofxBeatExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1923776BBC209A3FF7C67FC9144A63ADE7C3FE40</key>
+		<string>https://github.com/verytired/oF.git</string>
+		<key>E1973EE936B32FD6C1A9080FB86363F99151DFAC</key>
+		<string>https://github.com/darrenmothersele/ofxBeat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_v0.8.4_osx_release/addons/ofxBeatTracking/ofxBeatExample/ofxBeatExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1923776BBC209A3FF7C67FC9144A63ADE7C3FE40</key>
+		<string>../../../../../..</string>
+		<key>E1973EE936B32FD6C1A9080FB86363F99151DFAC</key>
+		<string>../../../../../..of_v0.8.4_osx_release/addons/ofxBeat/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/verytired/oF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1923776BBC209A3FF7C67FC9144A63ADE7C3FE40</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1923776BBC209A3FF7C67FC9144A63ADE7C3FE40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oF</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1973EE936B32FD6C1A9080FB86363F99151DFAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxBeat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
